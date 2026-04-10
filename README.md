@@ -61,8 +61,8 @@ A powerful moderation and role management bot built for the Fluxer platform.
 
 1. **Clone the repository**
    ```bash
-   git clone <repo-url> fluxer_bot
-   cd fluxer_bot
+   git clone [aardaakpinar/aether](https://github.com/aardaakpinar/aether)
+   cd aether
    ```
 
 2. **Install dependencies**
