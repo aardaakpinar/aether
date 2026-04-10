@@ -1,6 +1,6 @@
 # Aether Bot
 
-A powerful moderation and role management bot built for the Fluxer Discord platform.
+A powerful moderation and role management bot built for the Fluxer platform.
 
 ## Features
 
