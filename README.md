@@ -2,6 +2,10 @@
 
 A powerful moderation and role management bot built for the Fluxer platform.
 
+<a href="https://fluxer.gg/vE7ytycl" align="center">
+  <img src="github.com/fluxerapp/fluxer/blob/refactor/media/logo-graphic.png?raw=true" alt="Fluxer graphic logo" width="400">
+</p>
+
 ## Features
 
 ### 🛡️ Moderation Commands
