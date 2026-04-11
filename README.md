@@ -3,7 +3,7 @@
 A powerful moderation and role management bot built for the Fluxer platform.
 
 <a href="https://fluxer.gg/KL4vv6Zi" align="center">
-  <img src="https://raw.githubusercontent.com/fluxerapp/fluxer/refs/heads/refactor/media/logo-graphic.png" alt="Fluxer graphic logo" width="400">
+  <img src="https://raw.githubusercontent.com/fluxerapp/fluxer/refs/heads/refactor/media/logo-graphic.png" alt="Fluxer graphic logo" width="100">
 </p>
 
 ## Features
