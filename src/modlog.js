@@ -1,5 +1,5 @@
-import { db } from "./db.mjs";
-import { logger } from "./logger.mjs";
+import { db } from "./db.js";
+import { logger } from "./logger.js";
 
 export async function logModAction(api, guildId, embed) {
     const settings = db.settings.get(guildId);

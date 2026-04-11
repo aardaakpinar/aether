@@ -1,4 +1,4 @@
-import { db, nextCaseId } from "./db.mjs";
+import { db, nextCaseId } from "./db.js";
 
 export function createCase(guildId, type, userId, reason, moderatorId) {
     const caseId = nextCaseId();

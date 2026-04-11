@@ -1,7 +1,7 @@
 import { GatewayDispatchEvents } from "@discordjs/core";
-import { commands, DEFAULT_PREFIX } from "./commands.mjs";
-import { db } from "./db.mjs";
-import { logger } from "./logger.mjs";
+import { commands, DEFAULT_PREFIX } from "./commands.js";
+import { db } from "./db.js";
+import { logger } from "./logger.js";
 
 export function registerEvents(client) {
     client.on(GatewayDispatchEvents.MessageCreate, async ({ api, data }) => {

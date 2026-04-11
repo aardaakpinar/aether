@@ -2,8 +2,8 @@ import "dotenv/config";
 import { Client } from "@discordjs/core";
 import { REST } from "@discordjs/rest";
 import { WebSocketManager } from "@discordjs/ws";
-import { logger } from "./logger.mjs";
-import { registerEvents } from "./events.mjs";
+import { logger } from "./logger.js";
+import { registerEvents } from "./events.js";
 
 const token = process.env.FLUXER_BOT_TOKEN;
 if (!token) throw new Error("Token yok!");

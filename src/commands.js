@@ -1,9 +1,9 @@
-import { db } from "./db.mjs";
-import { RANKS, hasRank } from "./ranks.mjs";
-import { createCase } from "./cases.mjs";
-import { logModAction } from "./modlog.mjs";
-import { logger } from "./logger.mjs";
-import { parseTime, formatTime, getUserId, getMentionString } from "./utils.mjs";
+import { db } from "./db.js";
+import { RANKS, hasRank } from "./ranks.js";
+import { createCase } from "./cases.js";
+import { logModAction } from "./modlog.js";
+import { logger } from "./logger.js";
+import { parseTime, formatTime, getUserId, getMentionString } from "./utils.js";
 
 export const DEFAULT_PREFIX = "!";
 
